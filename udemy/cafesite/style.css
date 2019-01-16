@@ -10,6 +10,10 @@ div {
   margin: 0 auto;
 }
 
+.text-right {
+  text-align: right;
+}
+
 .jumbotron-image {
   width: 100%;
 }
@@ -43,6 +47,10 @@ div {
   font-size: 20px;
 }
 
+.cafe-descriptions {
+  margin-bottom: 100px;
+}
+
 .cafe-description {
   width: 690px;
   margin: 0 auto;
@@ -63,4 +71,44 @@ div {
 .cafe-description p {
   font-size: 14px;
   line-height: 28px;
+}
+
+.cafe-menu {
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 80px 0;
+}
+
+.cafe-menu-morning {
+  background-image: url(./images/bg_espresso.jpg);
+}
+
+.cafe-menu-evening {
+  background-image: url(./images/bg_wine.jpg);
+}
+
+.cafe-menu-inner {
+  width: 690px;
+  margin: 0 auto;
+  padding: 56px 0;
+  background-color: rgba(255, 255, 255, 0.88);
+}
+
+.cafe-menu-inner h3 {
+  margin-top: 0;
+  text-align: center;
+  font-size: 24px;
+  font-weight: normal;
+  letter-spacing: 2.4px;
+}
+
+.cafe-menu-inner p {
+  font-size: 14px;
+  text-align: center;
+  margin: 24px 0;
+}
+
+.cafe-menu-inner table {
+  width: 250px;
+  margin: 0 auto;
 }
