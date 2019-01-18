@@ -152,3 +152,54 @@ div {
 .cafe-information-column-logo {
   padding: 0 48px;
 }
+
+.cafe-map {
+  width: 788px;
+  margin: 0 auto 56px auto;
+}
+
+.cafe-map img {
+  width: 747px;
+  display: block;
+  margin: 0 auto;
+}
+
+.cafe-inquiry {
+  width: 320px;
+  margin: 0 auto 120px auto;
+}
+
+.cafe-inquiry h5 {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  border-bottom: 1px solid #D8D8D8;
+  padding-bottom: 16px;
+  margin-bottom: 12px;
+}
+
+.cafe-inquiry p {
+  font-size: 30px;
+  text-align: center;
+  margin: 0;
+  letter-spacing: 3px;
+}
+
+.cafe-instagram {
+  text-align: center;
+  margin-bottom: 180px;
+}
+
+.cafe-instagram p {
+  font-size: 14px;
+  font-weight: bold;
+  color: #DA2E7C;
+}
+
+.footer {
+  background-color: #000000;
+}
+
+.footer p {
+  margin: 0;
+}
