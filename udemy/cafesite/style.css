@@ -198,8 +198,11 @@ div {
 
 .footer {
   background-color: #000000;
+  padding: 16px 8px;
 }
 
 .footer p {
   margin: 0;
+  color: white;
+  font-size: 12px;
 }
