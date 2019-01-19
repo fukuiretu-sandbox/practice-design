@@ -45,6 +45,7 @@ div {
 .cafe-feature-title {
   text-align: center;
   font-size: 20px;
+  letter-spacing: 2px;
 }
 
 .cafe-descriptions {
@@ -66,6 +67,7 @@ div {
 .cafe-description h3 {
   text-align: center;
   font-size: 20px;
+  letter-spacing: 2px;
 }
 
 .cafe-description p {
