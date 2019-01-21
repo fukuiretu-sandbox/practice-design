@@ -14,8 +14,25 @@ div {
   text-align: right;
 }
 
-.jumbotron-image {
+.jumbotron {
+  display: flex;
   width: 100%;
+  height: 400px;
+  background-image: url(./images/bg_jumbotron.jpg);
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+}
+
+.jumbotron img {
+  height: 150px;
+}
+
+.jumbotron p {
+  font-size: 18px;
+  letter-spacing: 4px;
+  color: #ffffff;
+  text-align: center;
 }
 
 .menu-image {
