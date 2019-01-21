@@ -30,6 +30,7 @@ div {
 
 .jumbotron p {
   font-size: 18px;
+  font-weight: bold;
   letter-spacing: 4px;
   color: #ffffff;
   text-align: center;
@@ -172,28 +173,36 @@ div {
   padding: 0 48px;
 }
 
+.cafe-information-column-logo img {
+  width: 308px;
+  height: 100px;
+}
+
+.cafe-information-column-logo p {
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 4px;
+}
+
 .cafe-map {
   width: 788px;
   margin: 0 auto 56px auto;
 }
-
 .cafe-map img {
   width: 747px;
   display: block;
   margin: 0 auto;
 }
-
 .cafe-map iframe {
   width: 100%;
   height: 350px;
   border: 0;
 }
-
 .cafe-inquiry {
   width: 320px;
   margin: 0 auto 120px auto;
 }
-
 .cafe-inquiry h5 {
   font-size: 16px;
   font-weight: bold;
@@ -202,30 +211,25 @@ div {
   padding-bottom: 16px;
   margin-bottom: 12px;
 }
-
 .cafe-inquiry p {
   font-size: 30px;
   text-align: center;
   margin: 0;
   letter-spacing: 3px;
 }
-
 .cafe-instagram {
   text-align: center;
   margin-bottom: 180px;
 }
-
 .cafe-instagram p {
   font-size: 14px;
   font-weight: bold;
   color: #DA2E7C;
 }
-
 .footer {
   background-color: #000000;
   padding: 16px 8px;
 }
-
 .footer p {
   margin: 0;
   color: white;
