@@ -1,0 +1,9 @@
+@media screen and (max-width: 1200px) {
+  .container {
+    width: 100%;
+  }
+
+  .cafe-feature {
+    margin: 32px auto!important;
+  }
+}
