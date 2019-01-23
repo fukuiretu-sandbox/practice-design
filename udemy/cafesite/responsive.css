@@ -2,8 +2,32 @@
   .container {
     width: 100%;
   }
-
   .cafe-feature {
-    margin: 32px auto!important;
+    margin: 32px auto !important;
+  }
+  .cafe-map {
+    width: 100%;
+  }
+  .cafe-menu {
+    padding: 0;
+  }
+  .cafe-information {
+    width: 100%;
+  }
+  .cafe-menu-inner {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 785px) {
+  .cafe-feature {
+    padding: 24px;
+  }
+  .cafe-information-column-right {
+    border-left: 0;
+  }
+  .cafe-description {
+    width: 100%;
+    padding: 0 32px 32px 32px;
   }
 }

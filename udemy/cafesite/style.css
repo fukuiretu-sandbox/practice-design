@@ -14,7 +14,7 @@ div {
   text-align: right;
 }
 
-.or-more{
+.or-more {
   position: relative;
 }
 
@@ -160,7 +160,9 @@ div {
 
 .cafe-information-column {
   display: flex;
+  justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .cafe-information-column-right {
