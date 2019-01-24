@@ -33,4 +33,7 @@
   .footer p {
     text-align: center;
   }
+  .jumbotron img {
+    width: 100%;
+  }
 }
