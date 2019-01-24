@@ -227,6 +227,11 @@ body {
   margin: 0 auto 120px auto;
 }
 
+.phonenumber {
+  text-decoration: none;
+  color: #657dde;
+}
+
 .cafe-inquiry h5 {
   font-size: 16px;
   font-weight: bold;
